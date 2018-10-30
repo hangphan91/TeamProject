@@ -7,7 +7,7 @@ public class ChatClient extends AbstractClient
   private boolean msg_from_server = false;
   public ChatClient()
   {
-    super("localhost",8300);
+    super("localhost",8388);
   }
 
   @Override

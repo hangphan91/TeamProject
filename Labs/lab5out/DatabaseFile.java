@@ -69,7 +69,7 @@ public class DatabaseFile
 			account_ID.put(username, id);
 		 }
 		 else {
-			 System.out.println("account does not exists");
+			 System.out.println("account created");
 		 }
 		
 		return id;
